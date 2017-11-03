@@ -30,4 +30,7 @@ Screenshots
 <img src ="Screenshot_c.png" width="270" height="480">
 <img src ="Screenshot_d.png" width="270" height="480">
 <img src ="Screenshot_e.png" width="270" height="480">
+<img src ="Screenshot_f.png" width="270" height="480">
+<img src ="Screenshot_g.png" width="270" height="480">
+<img src ="Screenshot_h.png" width="270" height="480">
 
