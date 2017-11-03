@@ -21,3 +21,13 @@ Kotlin Code Sample
 17. Save image in to sdcard
 18. Qrcode and Barcode Scanning using Zxing Library
 
+
+
+Screenshots
+
+<img src ="Screenshot_a.png" width="360" height="640">
+<img src ="Screenshot_b.png" width="360" height="640">
+<img src ="Screenshot_c.png" width="360" height="640">
+<img src ="Screenshot_d.png" width="360" height="640">
+<img src ="Screenshot_e.png" width="360" height="640">
+
