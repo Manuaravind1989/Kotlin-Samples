@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_foo_fragment">Hello foo fragment</string>
+    <string name="hello_bar_fragment">Hello bar fragment</string>
+    <string name="hello_baz_fragment">Hello baz fragment</string>
+    <string name="hello_foo_bar_fragment">Hello foo bar fragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="settings">Settings</string>
+</resources>

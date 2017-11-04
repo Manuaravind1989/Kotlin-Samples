@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:gravity="center" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/singleAlertButton"
+        android:layout_width="250dp"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:background="@drawable/button"
+        android:textColor="@android:color/white"
+        android:layout_height="50dp"
+        android:text="Single Alert" />
+
+    <Button
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button"
+        android:id="@+id/doubleAlertButton"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="Double Alert" />
+
+    <Button
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button"
+        android:id="@+id/listAlertButton"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="List Alert" />
+
+    <Button
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:background="@drawable/button"
+        android:id="@+id/editAlertButton"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="EditText Alert" />
+</LinearLayout>
